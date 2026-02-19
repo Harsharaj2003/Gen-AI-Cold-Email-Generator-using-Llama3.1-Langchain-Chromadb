@@ -48,6 +48,7 @@ Example Jupyter notebook for experiments
 Tech stack
 
 Python 3.8+
+file should be saved as pynb
 
 LangChain
 
@@ -270,4 +271,5 @@ Final notes (important)
 Streamlit is recommended for local development in PyCharm & VS Code. If you see a Gradio UI in the repo, convert to Streamlit for more predictable IDE behavior.
 
 When integrating Llama 3.1, follow the model provider’s license and distribution rules. Replace placeholders in .env with your real credentials.
+
 
