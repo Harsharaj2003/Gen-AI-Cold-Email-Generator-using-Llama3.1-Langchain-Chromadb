@@ -70,8 +70,6 @@ Access to Llama 3.1 (local runtime or hosted API) — ensure you have necessary 
 Quick setup (step-by-step)
 
 Clone
-
-git clone https://github.com/yourusername/gen-ai-cold-email.git
 cd gen-ai-cold-email
 
 
@@ -272,3 +270,4 @@ Final notes (important)
 Streamlit is recommended for local development in PyCharm & VS Code. If you see a Gradio UI in the repo, convert to Streamlit for more predictable IDE behavior.
 
 When integrating Llama 3.1, follow the model provider’s license and distribution rules. Replace placeholders in .env with your real credentials.
+
